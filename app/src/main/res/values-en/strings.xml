@@ -6,8 +6,8 @@
     <string name="nombre">Name</string>
     <string name="partesaludo2">Welcome to this aplication!!!</string>
     <string name="saludo">Hello</string>
-    <string name="textButton">Say Hello</string>
-    <string name="titulo">App Hello</string>
+    <string name="textButton">To show</string>
+    <string name="titulo">Registration of persons</string>
     <string name="error_1">Type your name</string>
     <string name="error_2">Type you Lastname</string>
     <string name="edad">how old are you?</string>
@@ -20,4 +20,7 @@
     <string name="error_6">Write your sex</string>
     <string name="TuSexoEs">and your sex is</string>
     <string name="TuEdadEs">your age is</string>
+    <string name="Edad">Age</string>
+    <string name="Borrar">Delete</string>
+    <string name="error_7">Verify your information please</string>
 </resources>

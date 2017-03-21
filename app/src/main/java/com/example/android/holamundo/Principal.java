@@ -30,9 +30,9 @@ public class Principal extends AppCompatActivity {
         cajaSapellido=(EditText) findViewById(R.id.txtSegundoapellido);
         cajaEdad=(EditText) findViewById(R.id.txtEdad);
         cajaSexo=(EditText) findViewById(R.id.txtSexo);
-        //creamos el onjeto intet que sirve para pasar de una actividad a otra
+        //creamos el objeto intet que sirve para pasar de una actividad a otra
         i = new Intent(this,Saludo.class);
-        //se cra el objeto bundle que sirver para encapsular datos
+        //se crea el objeto bundle que sirver para encapsular datos
         b = new Bundle();
     }
 
