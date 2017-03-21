@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="titulo">Aplicación Saludar</string>
+    <string name="textButton">Saludar</string>
+    <string name="saludo">Hola </string>
+    <string name="nombre">Primer nombre</string>
+    <string name="apellido">Primer  apellido</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="partesaludo2">Bienvenido a esta aplicacion!!!</string>
+    <string name="error_1">Digite el primer nombre</string>
+    <string name="error_2">Digite el primer apellido</string>
+    <string name="error_3">Digite el Segundo nombre</string>
+    <string name="error_4">Digite el Segundo apellido</string>
+    <string name="error_5">Digite la Edad</string>
+    <string name="error_6">Digite el Sexo</string>
+    <string name="sNombre">Segundo nombre</string>
+    <string name="sApellido">Segundo apellido</string>
+    <string name="edad">Edad</string>
+    <string name="sexo">Sexo</string>
+    <string name="TuSexoEs"> y tu sexo es</string>
+    <string name="TuEdadEs">tu edad es</string>
+</resources>

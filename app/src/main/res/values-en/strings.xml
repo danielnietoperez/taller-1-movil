@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hello world</string>
+    <string name="apellido">last name</string>
+    <string name="bienvenido">Welcome</string>
+    <string name="nombre">Name</string>
+    <string name="partesaludo2">Welcome to this aplication!!!</string>
+    <string name="saludo">Hello</string>
+    <string name="textButton">Say Hello</string>
+    <string name="titulo">App Hello</string>
+    <string name="error_1">Type your name</string>
+    <string name="error_2">Type you Lastname</string>
+    <string name="edad">how old are you?</string>
+    <string name="sApellido">second surname</string>
+    <string name="sNombre">second name</string>
+    <string name="sexo">Sex</string>
+    <string name="error_3">Type the middle name</string>
+    <string name="error_4">Type the second last name</string>
+    <string name="error_5">Write your age</string>
+    <string name="error_6">Write your sex</string>
+    <string name="TuSexoEs">and your sex is</string>
+    <string name="TuEdadEs">your age is</string>
+</resources>
